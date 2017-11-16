@@ -6,8 +6,3 @@ describe scuberGreetingForFeet(ride)
   else if (ride > 2500) {'No can do.'}
 }
 
-describe ternaryCheckCity()
-{}
-
-
-describe switchOnCharmFromTip() {}
