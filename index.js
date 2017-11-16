@@ -1,5 +1,5 @@
 // Write your code in this file!
-describe scuberGreetingForFeet()
+describe scuberGreetingForFeet(distance)
 {
   if (distance < 400)
     {
