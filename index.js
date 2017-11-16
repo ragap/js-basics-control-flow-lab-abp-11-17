@@ -3,3 +3,7 @@ describe scuberGreetingForFeet()
 {}
 
 describe ternaryCheckCity()
+{}
+
+
+describe switchOnCharmFromTip() {}
